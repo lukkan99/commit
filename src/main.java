@@ -1,4 +1,6 @@
 public class main
 {
-    //null
+    while(true){
+        System.out.println("Hai");
+    }
 }
