@@ -12,5 +12,11 @@ public class Main
     public static void call()
     {
         System.out.println("Hai");
+        callarmy();
+    }
+    
+    public static void callarmy()
+    {
+        System.out.println("army");
     }
 }
