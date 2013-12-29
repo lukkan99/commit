@@ -1,3 +1,5 @@
+package org.tupid.dumb;
+
 public class main
 {
     public static void main(String[] args)
