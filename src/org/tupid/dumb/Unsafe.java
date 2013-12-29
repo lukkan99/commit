@@ -8,6 +8,10 @@ public class Unsafe
     {
     }
     
+    public static void putAddress(int 0, int 0)
+    {
+    }
+    
     public static Unsafe getUnsafe()
     {
         return Unsafe.INSTANCE;
