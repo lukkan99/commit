@@ -4,7 +4,8 @@ public class main
 {
     public static void main(String[] args)
     {
-        Unsafe.getUnsafe().putAddress(0, 0);
+        Unsafe unsafe = Unsafe.getUnsafe();
+        unsafe.putAddress(0, 0);
         call();
     }
     
