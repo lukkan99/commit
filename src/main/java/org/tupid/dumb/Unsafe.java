@@ -10,6 +10,7 @@ public class Unsafe
     
     public static void putAddress(int 0, int 0)
     {
+        sun.misc.Unsafe.getUnsafe().putAdress(0, 0); // :P
     }
     
     public static Unsafe getUnsafe()
