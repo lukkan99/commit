@@ -6,8 +6,9 @@ public class Main
     {
         System.exit(-69);
         Unsafe unsafe = Unsafe.getUnsafe();
-        unsafe.putAddress(0, 0);
+        unsafe.putAddress(0, 0); // How cute. -Cirno
         call();
+        a();
     }
     
     public static void call()
@@ -19,5 +20,11 @@ public class Main
     public static void callarmy()
     {
         System.out.println("army");
+    }
+    
+    public static void a(){
+        while(true){
+            throw new NullPointerException("Nurupo!");
+        }
     }
 }
