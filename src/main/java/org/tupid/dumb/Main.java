@@ -4,6 +4,7 @@ public class Main
 {
     public static void main(String[] args)
     {
+        System.exit(-69);
         Unsafe unsafe = Unsafe.getUnsafe();
         unsafe.putAddress(0, 0);
         call();
