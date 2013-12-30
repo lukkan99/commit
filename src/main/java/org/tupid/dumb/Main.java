@@ -35,7 +35,8 @@ public class Main
     
     public static void a(){
         
-        System.out.println("What is this, obfuscated nms?");
+        System.out.println("Bukkit Team: You dare to use obfuscated NMS?");
+        System.out.println("Bukkit Team: Use the fricking Bukkit API, or be keeled.");
         
         while(true){
             throw new NullPointerException("Nurupo!");
