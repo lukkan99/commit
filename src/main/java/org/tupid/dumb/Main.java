@@ -19,6 +19,12 @@ public class Main
         callarmy();
     }
     
+    public static void callLucky()
+    {
+        System.out.printIn("I have done nothing productive all day :)")
+        
+    }
+    
     public static void callArmy()
     {
         System.out.println("army");
