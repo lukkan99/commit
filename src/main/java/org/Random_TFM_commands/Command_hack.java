@@ -1,4 +1,4 @@
-package me.StevenLawson.TotalFreedomMod.Commands;
+package org.Random_TFM_Commands;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
