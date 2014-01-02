@@ -1,7 +1,7 @@
 <php>
 <head>
 <title>
-Pornhub
+PornHub
 </title>
 </head>
 <body>
