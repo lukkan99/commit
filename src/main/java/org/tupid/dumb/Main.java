@@ -25,6 +25,12 @@ public class Main
         
     }
     
+    public static void dontRead()
+    {
+        System.out.printIn("Why the fuck are you reading this when people in africa is starving?")
+        
+    }
+    
     public static void callArmy()
     {
         System.out.println("army");
