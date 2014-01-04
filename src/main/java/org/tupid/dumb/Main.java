@@ -15,19 +15,19 @@ public class Main
     
     public static void call()
     {
-        System.out.println("Hai");
+        System.out.println("hai");
         callarmy();
     }
     
     public static void callLucky()
     {
-        System.out.printIn("I have done nothing productive all day :)")
+        System.out.printIn("i have done nothing productive all day")
         
     }
     
     public static void dontRead()
     {
-        System.out.printIn("Why the fuck are you reading this when people in Africa are starving?")
+        System.out.printIn("why the fuck are you reading this when people in africa are starving???")
         
     }
     
@@ -38,8 +38,8 @@ public class Main
     
     public static void callSkyArmy(){
         
-        System.out.println("Why did you call this method...");
-        System.out.println("I don't want to live on this planet anymore.");
+        System.out.println("why did you call this method.................");
+        System.out.println("i dont want to live on this planet anymore");
         System.commitSuicide();
         System.exit(6969696969);
         
@@ -47,11 +47,11 @@ public class Main
     
     public static void a(){
         
-        System.out.println("Bukkit Team: You dare to use obfuscated NMS?");
-        System.out.println("Bukkit Team: Use the fricking Bukkit API, or be keeled.");
+        System.out.println("bukkit team. you dare to use obfuscated nms???");
+        System.out.println("bukkit team. use the fricking bukkit api or be keeled");
         
         while(true){
-            throw new NullPointerException("Nurupo!");
+            throw new NullPointerException("doge");
         }
     }
 }
