@@ -1,11 +1,12 @@
-public class plugeen extends Plugin{
-  public static void enable()
-  {
+
+public class plugeen extends Plugin
+{
+    public static void enable()
+    {
     
-  }
-  public static void disable()
-  {
+    }
+    public static void disable()
+    {
     
-  }
-  
+    }
 }
